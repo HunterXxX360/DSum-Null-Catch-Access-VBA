@@ -3,4 +3,4 @@
 DSum(expression, domain, criteria) is a standard VBA for MS-Access function to sum table columns.
 It has some difficulties dealing with strings and often retrieves null-values.
 
-This little function catches these errors and 
+This little function catches these errors and prints out 0 instead.
